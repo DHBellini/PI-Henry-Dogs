@@ -1,0 +1,24 @@
+.card-cont{
+    background-color: blue;
+    border: solid 2px gold;
+    border-radius: 3px;
+    width: 15rem;
+    margin: 8px;
+    padding: 4px;
+}
+
+.card-cont-title h2{
+    color: darkgreen;
+}
+
+.card-cont-info span{
+    color: deepskyblue;
+}
+
+.card-cont-img img{
+    border: 2px solid grey;
+    height: 180px;
+    width: 14rem;
+    margin: 8px;
+    padding: 4px;
+}

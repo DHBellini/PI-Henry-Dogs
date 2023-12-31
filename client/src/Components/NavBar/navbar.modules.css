@@ -1,0 +1,25 @@
+.navbar-cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: cyan;
+}
+
+.navbar-cont-img img{
+    width: 8rem;
+    padding: 3px;   
+}
+
+.navbar-cont-links{
+    display: flex;
+    justify-content: space-between;
+    width: 12rem;
+}
+
+.navbar-link{
+    color: blue;
+}
+
+.navbar-cont-search{
+    color: gray;
+}

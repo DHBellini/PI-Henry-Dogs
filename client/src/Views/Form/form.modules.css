@@ -1,0 +1,24 @@
+.form-cont{
+    background-image: url("https://www.magazinespain.com/wp-content/uploads/2023/08/fiordos-noruegos-portada.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding: 100px 50px 150px 100px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    margin-top: 5px;
+    border: solid 2px black;
+    font-weight: bold;
+    color: red;
+}
+
+.form-cont form{
+    display: flex;    
+    flex-direction: column;
+    width: 15rem;
+}
+
+.form-cont label{
+    color: darkblue;
+}

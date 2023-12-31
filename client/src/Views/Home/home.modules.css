@@ -1,0 +1,8 @@
+.home-cont{
+    background-color: lightslategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    margin-top: 5px;
+}

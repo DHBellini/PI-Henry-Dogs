@@ -1,0 +1,24 @@
+.landingPage-cont{
+    background-image: url(https://i.pinimg.com/736x/10/cf/2b/10cf2b0eed8dc548efa3ac8fea309d32--doge-humour.jpg);
+    background-color: gray;
+    width: auto;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border: solid 2px black;
+    margin-top: 3px;
+}
+
+.landingPage-cont h1 {
+    color: darkblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.landingPage-button{
+    background-color: chocolate;
+    border: solid 2px white;
+    padding: 8px;
+    border-radius: 999px;
+}

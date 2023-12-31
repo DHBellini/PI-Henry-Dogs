@@ -1,0 +1,52 @@
+.details-cont{
+    background-image: url("https://www.xtrafondos.com/wallpapers/resized/montanas-en-lago-y-bosque-3834.jpg?s=large");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    bottom: 1px;
+    left: 0;
+    width: 100%;    
+    padding: 7px;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.details-cont img{
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+    width: 550px;
+    height: 500px;
+    border-radius: 10em;
+    align-items: center;
+    margin-top: 11%;
+    margin-left: 5px;
+}
+
+.details-cont h1{
+    color: gold;
+}
+
+.details-cont h2{
+    color: silver;
+}
+
+.details-cont h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkmagenta;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.details-cont label{
+    color: blue;
+    font-weight: bold;
+}
+
+.details-cont p{
+    color: orangered;
+    font-weight: bolder;
+}
